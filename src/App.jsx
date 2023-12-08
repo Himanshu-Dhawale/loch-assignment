@@ -141,7 +141,7 @@ const App = () => {
         <div className="flex flex-col md:flex-row md:justify-between w-full">
           <div className="w-[335px] h-[306px] relative">
             <img
-              src="src\assets\Cohorts 1.jpg"
+              src="src\assets\Cohorts1.jpg"
               alt=""
               className=" w-full h-full object-cover"
             />
