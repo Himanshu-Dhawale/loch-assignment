@@ -36,14 +36,14 @@ const App = () => {
     <div className="relative min-h-screen w-full flex flex-col md:grid grid-cols-10 max-w-[1440px] mx-auto">
       <div className="w-full h-full md:col-span-6 bg-gradient-to-bl z-10 from-[#16151E] to-black flex flex-col space-y-[16px] p-12 relative">
         <img
-          src="src\assets\bluela2.svg"
+          src="public\bluela2.svg"
           alt=""
           className="absolute w-full h-full object-cover top-0 left-0 bottom-0 -z-10"
         />
         <div className="flex flex-col md:flex-row gap-y-6 md:gap-y-0 md:gap-x-6 relative">
           <div className="flex flex-col gap-y-[16px] w-full max-w-[322px]">
             <img
-              src="src\assets\Vector.svg"
+              src="public\Vector.svg"
               alt=""
               className="w-[32px] h-[32px]"
               id="rotateIcon"
@@ -63,7 +63,7 @@ const App = () => {
                 save
               </p>
               <img
-                src="src\assets\bell.jpg"
+                src="public\bell.jpg"
                 alt=""
                 className="w-[28px] h-[28px] absolute top-[-5px] left-[14px]"
               />
@@ -84,7 +84,7 @@ const App = () => {
                 />
               </p>
               <img
-                src="src\assets\bar-chart-2.svg"
+                src="public\Group 427319307@2x.svg"
                 alt=""
                 className="w-[28px] h-[28px] absolute top-[-5px] left-[14px]"
               />
@@ -113,7 +113,7 @@ const App = () => {
                 />
               </p>
               <img
-                src="/barchart2.svg"
+                src="public\Group 427319307@2x.svg"
                 alt=""
                 className="w-[28px] h-[28px] absolute top-[-5px] left-[14px]"
               />
@@ -141,13 +141,13 @@ const App = () => {
         <div className="flex flex-col md:flex-row md:justify-between w-full">
           <div className="w-[335px] h-[306px] relative">
             <img
-              src="src\assets\Cohorts1.jpg"
+              src="public\Cohorts1.jpg"
               alt=""
               className=" w-full h-full object-cover"
             />
           </div>
           <div className="flex flex-col gap-y-[16px] w-full max-w-[313px] md:items-end ">
-            <img src="src\assets\Eye.png" alt="" className="w-[32px] h-[32px]" />
+            <img src="public\Eye.png" alt="" className="w-[32px] h-[32px]" />
             <h2 className="font-medium md:text-right text-[31px] text-[#F2F2F2] stroke-[#000000] leading-9">
               Watch what the whales are doing
             </h2>
@@ -207,7 +207,7 @@ const App = () => {
           </div>
         </div>
         <img
-          src="src\assets\vector3.png"
+          src="public\vector3.png"
           alt=""
           className="w-[60px] h-[60px] hidden md:block absolute z-10 bottom-[60px] left-[60px]"
         />
